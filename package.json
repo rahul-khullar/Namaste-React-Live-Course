@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react-live-course",
+  "version": "1.0.0",
+  "description": "This is a live react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-khullar/Namaste-React-Live-Course.git"
+  },
+  "author": "Rahul Khullar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul-khullar/Namaste-React-Live-Course/issues"
+  },
+  "homepage": "https://github.com/rahul-khullar/Namaste-React-Live-Course#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
